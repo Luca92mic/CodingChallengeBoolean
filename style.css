@@ -1,0 +1,65 @@
+body {
+  background-image: url(background.jpg);
+  background-size: cover;
+  font-family: sans-serif;
+}
+
+.container{
+  width: 1000px;
+  margin: auto;
+  background-color: rgba(0,0,0,0.5);
+  padding: 100px;
+  color: white;
+  border-radius: 20px;
+}
+
+.logo{
+  width: 250px;
+}
+
+header{
+  text-align: center;
+}
+
+h1{
+  color: #00dd00;
+}
+
+.row-button{
+  background-color: #00dd00;
+  padding: 10px;
+}
+
+.monopattino{
+  padding-bottom: 20px;
+  padding-top: 20px;
+}
+
+.modello{
+  font-size: 25px;
+  font-weight: bold;
+}
+
+.row{
+  padding: 15px;
+  border-radius: 10px;
+}
+
+.orange{
+    background-color: orange;
+    width: 20%;
+}
+
+.green{
+  background-color: green;
+  width: 50%;
+}
+
+.red{
+  background-color: red;
+  width: 10%;
+}
+
+.box, .indirizzo, .carica{
+  padding-bottom: 5px;
+}
